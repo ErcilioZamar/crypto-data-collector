@@ -22,6 +22,8 @@ Este projeto é um bot desenvolvido em Python com foco em automação de tarefas
 main.py
 requirements.txt
 README.md
+```
+
 ▶️ Como executar
 Instale as dependências:
 pip install -r requirements.txt
@@ -30,6 +32,8 @@ python main.py
 ⚙️ Requisitos
 Python 3.10+
 Bibliotecas listadas no requirements.txt
+
+
 📌 Objetivo do projeto
 
 Este bot foi criado com o objetivo de praticar automação em Python e desenvolver soluções que reduzam tarefas manuais no dia a dia.
